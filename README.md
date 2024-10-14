@@ -25,18 +25,14 @@ This URL shortener service allows users to shorten long URLs into shorter, more 
  3. **Set Up the Database**:
   
          Create a database named url_shortener_db.
-
     
         Update the database configuration in index1.php and redirect.php.
     
-
         $servername = "localhost";
         $username = "root";
         $password = "";
         $dbname = "url_shortener_db";
 
-
-    
  4.**Run the Project on Your Local Server**:
  
     Move the project files to your WampServer www directory (e.g., C:\wamp64\www\URL-Shortener).
@@ -47,7 +43,6 @@ This URL shortener service allows users to shorten long URLs into shorter, more 
 
   **Usage**
 
-  
     Shorten a URL: Visit the homepage and enter the long URL you want to shorten.
 
     Track Usage: Check the list of shortened URLs to see how many times they have been accessed.
