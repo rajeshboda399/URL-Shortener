@@ -35,20 +35,20 @@ This URL shortener service allows users to shorten long URLs into shorter, more 
 
  4.**Run the Project on Your Local Server**:
  
-    Move the project files to your WampServer www directory (e.g., C:\wamp64\www\URL-Shortener).
+    1. Move the project files to your WampServer www directory (e.g., C:\wamp64\www\URL-Shortener).
 
-    Start WampServer.
+    2. Start WampServer.
 
-    Access the application in your browser at http://localhost/URL-Shortener.
+    3. Access the application in your browser at http://localhost/URL-Shortener.
 
   **Usage**
 
-    Shorten a URL: Visit the homepage and enter the long URL you want to shorten.
+    1. Shorten a URL: Visit the homepage and enter the long URL you want to shorten.
 
-    Track Usage: Check the list of shortened URLs to see how many times they have been accessed.
+    2. Track Usage: Check the list of shortened URLs to see how many times they have been accessed.
 
   **Files**
   
-     index1.php: Main file for URL shortening.
+     1. index1.php: Main file for URL shortening.
 
-    redirect.php: Handles redirection from shortened URLs.
+    2. redirect.php: Handles redirection from shortened URLs.
