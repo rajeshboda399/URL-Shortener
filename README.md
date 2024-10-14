@@ -20,19 +20,14 @@ This URL shortener service allows users to shorten long URLs into shorter, more 
    git clone https://github.com/rajeshboda399/URL-Shortener.git
 
    Navigate to the Project Directory:
-
 sh
 
-Copy
 cd URL-Shortener
 Set Up the Database:
 
 Create a database named url_shortener_db.
 
-Import the SQL schema (if available).
-
-Update Configuration:
-
+Import the SQL schema
 Update the database configuration in index1.php and redirect.php.
 
 php
